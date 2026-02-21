@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { useUser } from '../../assets/context/UserContext';
+import { useUser } from '../../context/UserContext';
 import "./UserList.css"
 import Loader from '../Loader/Loader';
 import Model from '../Model/Model';
